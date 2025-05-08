@@ -6,3 +6,5 @@
 <title>Tailwind</title>
 
 <x-navigation />
+<x-hero />
+<x-features />
