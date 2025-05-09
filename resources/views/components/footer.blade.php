@@ -64,7 +64,7 @@
             </form>
 
             <div class="hidden text-white md:block">
-                Copyright &copy;2025, All Rights Reserved.
+                Copyright &copy; 2025, All Rights Reserved.
             </div>
         </div>
     </div>

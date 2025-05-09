@@ -1,3 +1,5 @@
+<script src="../../js/script.js"></script>
+
 <nav class="relative container mx-auto p-6"><!--to add margins in the left and right-->
         <!--Flex container -->
         <div class="flex items-center justify-between"><!--to put the items in the div in a row and center them-->
@@ -19,6 +21,24 @@
             <a href="" class="hidden md:block p-3 px-6 pt-2 text-white bg-orange-600 hover:bg-orange-500 rounded-full baseline"><!--block : Takes up the full width of its parent container by default-->
                 Get Started
             </a>
+
+            {{-- Hambuger Icon --}}
+            <button id="menu-btn" class="block hamburger md:hidden focus:outline-none">
+                <span class="hamburger-top"></span>
+                <span class="hamburger-middle"></span>
+                <span class="hamburger-bottom"></span>
+            </button>
+        </div>
+
+        <!--Mobile Menu-->
+        <div class="md:hidden">
+            <div id="menu" class="absolute hidden flex flex-col items-center self-end py-8 mt-10 space-y-6 font-bold bg-white sm:w-auto sm:self-center left-6 right-6 drop-shadow-md">
+                <a href="#" class="hover:text-red-400">Pricing</a>
+                <a href="#" class="hover:text-red-400">Product</a>
+                <a href="#" class="hover:text-red-400">About Us</a>
+                <a href="#" class="hover:text-red-400">Careers</a>
+                <a href="#" class="hover:text-red-400">Community</a>
+            </div>
         </div>
 </nav>
 
