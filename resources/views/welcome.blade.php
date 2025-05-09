@@ -8,3 +8,4 @@
 <x-navigation />
 <x-hero />
 <x-features />
+<x-testimonials />
