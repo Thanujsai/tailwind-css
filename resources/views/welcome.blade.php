@@ -9,3 +9,5 @@
 <x-hero />
 <x-features />
 <x-testimonials />
+<x-cta />
+<x-footer />
