@@ -7,7 +7,7 @@
         {{-- Testimonials Container --}}
         <div class="flex flex-col mt-24 md:flex-row md:space-x-6">{{--flex-col: This makes the items stack vertically on small screens. md:flex-row: On medium screens and larger, the items will be arranged in a row. --}}
             {{-- Testimonial 1 --}}
-            <div class="flex flex-col items-center p-6 space-y-6 rounded-lg bg-gray-100 md:w-1/3">
+            <div class="flex flex-col items-center p-6 space-y-6 shadow-xl rounded-lg bg-gray-100 md:w-1/3">
                 <img src="img/avatar-anisha.png"  class="w-16 -mt-14"/>{{-- -mt-14: This negative margin-top pulls the image up, overlapping the top of the card. --}}
                 <h5 class="text-lg font-bold">Anisha Li</h5>
                 <p class="text-sm">
@@ -16,7 +16,7 @@
             </div>
 
             {{-- Testimonial 2 --}}
-            <div class="hidden flex-col items-center p-6 space-y-6 rounded-lg bg-gray-100 md:flex md:w-1/3">
+            <div class="hidden flex-col items-center p-6 space-y-6 shadow-xl rounded-lg bg-gray-100 md:flex md:w-1/3">
                 <img src="img/avatar-ali.png"  class="w-16 -mt-14"/>
                 <h5 class="text-lg font-bold">Ali Bravo</h5>
                 <p class="text-sm">
@@ -25,7 +25,7 @@
             </div>
 
             {{-- Testimonial 3 --}}
-            <div class="hidden flex-col items-center p-6 space-y-6 rounded-lg bg-gray-100 md:flex md:w-1/3">
+            <div class="hidden flex-col items-center p-6 space-y-6 shadow-xl rounded-lg bg-gray-100 md:flex md:w-1/3">
                 <img src="img/avatar-richard.png"  class="w-16 -mt-14"/>
                 <h5 class="text-lg font-bold">Richard Watts</h5>
                 <p class="text-sm">
