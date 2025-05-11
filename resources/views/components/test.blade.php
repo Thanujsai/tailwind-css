@@ -7,13 +7,13 @@
                 <div class="flex flex-col space-y-6">
                     <h1 class="text-lg">Hi, There!</h1>
                     <p class="uppercase text-8xl text-black font-bebas-neue">
-                        <span class="text-pink-600">LUXE</span> is here to be your assistance
+                        <span class="text-orange-600">MANAGE</span> is here to be your assistance
                     </p>
                     
 
                     <p>I am here ready to help you in making creative digital products</p>
 
-                    <button class="p-3 px-6 pt-2 text-white bg-pink-600 rounded-full baseline border border-pink-600 transition-all duration-300 hover:bg-white hover:text-pink-600 max-w-40 cursor-pointer">
+                    <button class="p-3 px-6 pt-2 text-white bg-orange-600 rounded-full baseline border border-orange-600 transition-all duration-300 hover:bg-white hover:text-orange-600 max-w-40 cursor-pointer">
                         Get Started
                     </button>
                 </div>
