@@ -5,7 +5,7 @@
         <div class="flex items-center justify-between"><!--to put the items in the div in a row and center them-->
             <!--Logo -->
             <div class="pt-2">
-                <img src="/img/logo.svg" alt="">
+                <a href="/"><img src="/img/logo.svg" alt=""></a>
             </div>
 
             <!--Menu items-->
@@ -15,10 +15,11 @@
                 <a href="#" class="hover:text-red-400">About Us</a>
                 <a href="#" class="hover:text-red-400">Careers</a>
                 <a href="#" class="hover:text-red-400">Community</a>
+                <a href="/test" class="hover:text-red-400">Test</a>
             </div>
 
             <!-- Button -->
-            <a href="" class="hidden md:block p-3 px-6 pt-2 text-white bg-orange-600 hover:bg-orange-500 rounded-full baseline"><!--block : Takes up the full width of its parent container by default-->
+            <a href="" class="hidden md:block p-3 px-6 pt-2 text-white bg-orange-600 rounded-full baseline border border-orange-600 transition-all duration-300 hover:bg-white hover:text-orange-600"><!--block : Takes up the full width of its parent container by default-->
                 Get Started
             </a>
 

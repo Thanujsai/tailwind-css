@@ -11,7 +11,7 @@
                 while keeping the larger team goals in view.
             </p>
             <div class="flex justify-center md:justify-start">
-                <a href="" class="p-3 px-6 pt-2 text-white bg-orange-600 hover:bg-orange-500 rounded-full baseline"><!--block : Takes up the full width of its parent container by default-->
+                <a href="" class="p-3 px-6 pt-2 text-white bg-orange-600 rounded-full baseline border border-orange-600 transition-all duration-300 hover:bg-white hover:text-orange-600"><!--block : Takes up the full width of its parent container by default-->
                     Get Started
                 </a>
             </div>
