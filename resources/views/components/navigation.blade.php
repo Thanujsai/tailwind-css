@@ -5,7 +5,7 @@
         <div class="flex items-center justify-between"><!--to put the items in the div in a row and center them-->
             <!--Logo -->
             <div class="pt-2">
-                <img src="/img/logo.svg" alt="">
+                <a href="/"><img src="/img/logo.svg" alt=""></a>
             </div>
 
             <!--Menu items-->
