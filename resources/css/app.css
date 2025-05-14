@@ -71,3 +71,9 @@ body {
 #menu-btn.open .hamburger-bottom {
     transform: rotate(-45deg) translateY(6px) translateX(-6px);
 }
+
+@layer utilities {
+    .font-bebas-neue {/* adding custom utility class called .font-bebas-beue into tailwinds utilities layer, therefore it can be used as <h1 class="font-bebas-neue text-4xl">Hello</h1>*/
+      font-family: 'Bebas Neue', cursive;
+    }
+  }

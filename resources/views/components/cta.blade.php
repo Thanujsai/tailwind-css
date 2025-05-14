@@ -8,7 +8,7 @@
 
         {{-- Button --}}
         <div>
-            <a href="" class="p-3 px-6 pt-2 bg-white text-red-500 hover:bg-gray-300 rounded-full shadow-2xl baseline"><!--block : Takes up the full width of its parent container by default-->
+            <a href="" class="p-3 px-6 pt-2 bg-white text-red-500 rounded-full shadow-2xl baseline border border-orange-600 transition-all duration-300 hover:bg-black hover:text-white"><!--block : Takes up the full width of its parent container by default-->
                 Get Started
             </a>
         </div>
