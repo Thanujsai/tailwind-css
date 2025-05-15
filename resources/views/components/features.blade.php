@@ -1,4 +1,4 @@
-<section id="features" class="bg-brightRed">
+<section id="features">
     <!--Flex Container-->
     <div class="container flex flex-col px-12 mx-auto mt-10 space-y-12 md:space-y-0 md:flex-row">
         {{-- whats different --}}
